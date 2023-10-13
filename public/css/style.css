@@ -207,8 +207,8 @@ a:focus,
 .intro {
   display: table;
   width: 100%;
-  padding: 0;
-  background: url(../img/basel.jpg) center center no-repeat;
+  padding-top: 90px;
+  background: url(../img/basel2.jpg) center center no-repeat;
   background-color: #e5e5e5;
   -webkit-background-size: cover;
   -moz-background-size: cover;
