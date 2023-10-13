@@ -1,4 +1,5 @@
 import React from "react";
+import Logo from '../asa-trans.png';
 
 export const Navigation = (props) => {
   return (
@@ -17,8 +18,9 @@ export const Navigation = (props) => {
             <span className="icon-bar"></span>{" "}
             <span className="icon-bar"></span>{" "}
           </button>
-          <a className="navbar-brand page-scroll" href="#page-top">
-            ASA
+          <a className=" page-scroll" href="#page-top">
+            {/* ASA */}
+            <img src="img/asa5.jpeg" alt="ASA" className="logo" />
           </a>{" "}
         </div>
 
