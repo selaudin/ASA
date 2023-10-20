@@ -20,7 +20,7 @@ export const Navigation = (props) => {
           </button>
           <a className=" page-scroll" href="#page-top">
             {/* ASA */}
-            <img src="img/asa5.jpeg" alt="ASA" className="logo" />
+            <img src="icon/ASALogo.svg" alt="ASA" className="logo" width={150} height={50}/>
           </a>{" "}
         </div>
 
