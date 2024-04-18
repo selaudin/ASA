@@ -1,1 +1,0 @@
-React one page landing page for Albanian Students Association.
