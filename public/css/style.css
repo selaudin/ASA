@@ -465,6 +465,8 @@ header .intro-text {
 }
 #contact .section-title {
   margin-bottom: 40px;
+  text-align: center;
+
 }
 #contact .section-title p {
   font-size: 16px;
@@ -480,13 +482,13 @@ header .intro-text {
   content: "";
   background: rgba(255, 255, 255, 0.3);
   height: 4px;
-  width: 60px;
+  width: 240px;
   bottom: 0;
-  left: 30px;
+  transform: translateX(-38%); /* Adjust to center */
 }
 #contact h3 {
   color: #fff;
-  margin-top: 80px;
+  /*margin-top: 80px;*/
   margin-bottom: 25px;
   padding-bottom: 20px;
   font-weight: 400;
@@ -550,6 +552,7 @@ label {
 }
 #contact .contact-item {
   margin: 20px 0;
+  text-align: center;
 }
 #contact .contact-item span {
   color: rgba(255, 255, 255, 1);
