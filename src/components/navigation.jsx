@@ -1,5 +1,4 @@
 import React from "react";
-import Logo from '../asa-trans.png';
 
 export const Navigation = (props) => {
   return (
